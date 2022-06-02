@@ -15,5 +15,26 @@ class Solution{
 
 
        return set1.size();
+        
+        
+        //Intersection of two arrays
+        
+//         TreeSet<Integer> set = new TreeSet<>();
+//         // Removing duplicates from first array
+//         for (int i : a)
+//             set.add(i);
+ 
+//         ArrayList<Integer> list
+//             = new ArrayList<>();
+         
+//         // Avoiding duplicates and
+//         // adding intersections
+//         for (int i : b)
+//             if (set.contains(i)
+//                 && !list.contains(i))
+//                 list.add(i);
+        
+//         return list.size();
+        
    }
 }
